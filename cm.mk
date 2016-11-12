@@ -11,5 +11,5 @@ $(call inherit-product, device/alcatel/pop35/device_pop35.mk)
 PRODUCT_DEVICE := pop35
 PRODUCT_NAME := cm_pop35
 PRODUCT_BRAND := alcatel
-PRODUCT_MODEL := pop35
+PRODUCT_MODEL := 5065N
 PRODUCT_MANUFACTURER := alcatel
